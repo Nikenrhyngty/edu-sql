@@ -1,0 +1,3 @@
+//Aliases for table data
+
+SELECT name as 'NAMA', phone as 'TELEPON', address as 'ALAMAT' from user_id ui 
